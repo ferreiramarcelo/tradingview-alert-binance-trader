@@ -19,7 +19,7 @@
     "nbt": "./index.js"
   },
   "dependencies": {
-    "binance-api-node": "^0.10.16",
+    "binance-api-node": "^0.11.0",
     "chalk": "^2.3.0",
     "clear": "0.1.0",
     "colors": "^1.3.0",
